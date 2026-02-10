@@ -27,7 +27,7 @@
 	<div class="container">
 
 		<header>
-			<h1>SR Technologies DevOps & Cloud Learning Platform</h1> 
+			<h1>Learnbay Technologies DevOps & Cloud Learning Platform</h1> 
 			<h4>Contact: +91-9108458890 Email: info@srtech.com</h4> 
 		</header>
 
